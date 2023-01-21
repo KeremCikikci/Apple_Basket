@@ -37,4 +37,4 @@ https://user-images.githubusercontent.com/98697826/213877711-9f1d5347-d9e4-4fbd-
     
     ### Additional Info
     Models trained in various steps are saved in the 'Saved Models' folder.
-    The packages used in the environment can be installed by running the 'requirements.txt' file with the 'pip' command.
+    The packages used in the environment can be installed by running the 'requirements.txt' file with the 'pip install -r requirements.txt' command.
