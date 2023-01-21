@@ -32,8 +32,8 @@ https://user-images.githubusercontent.com/98697826/213877711-9f1d5347-d9e4-4fbd-
     
     ### Episode End
     The episode ends if any one of the following occurs:
-    1. Termination: Basket cannot catch the defined number of apples
-    2. Termination: Basket leaves the area
+    1. Termination: The Basket cannot catch the defined number of apples
+    2. Termination: The Basket leaves the area
     
     ### Additional Info
     Models trained in various steps are saved in the 'Saved Models' folder.
