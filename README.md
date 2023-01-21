@@ -1,4 +1,4 @@
-# Apple Basket -Reinforcement Learning- (stablebaselines_&_gym)
+# Apple Basket -Reinforcement Learning- (stablebaselines & gym)
 
     ### Description
     This environment simulates an apple basket that collects falling apples by moving only horizontally.
