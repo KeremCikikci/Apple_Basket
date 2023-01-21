@@ -29,7 +29,7 @@ def train():
 	model.save('PPO-100000')
 
 def test():
-	log_path = os.path.join('PPO.zip')
+	log_path = os.path.join('Saved Models', 'PPO.zip')
 	model = PPO.load(log_path, env)
 	evaluate_policy(model, env, n_eval_episodes=10, render=True)
 
