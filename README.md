@@ -1,4 +1,4 @@
-# Apple Basket -Reinforcement Learning- (stablebaselines & gym)
+# Apple Basket
 
 https://user-images.githubusercontent.com/98697826/213877711-9f1d5347-d9e4-4fbd-93ce-ac5e08915c96.mp4
     
