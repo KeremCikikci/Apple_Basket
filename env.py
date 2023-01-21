@@ -72,7 +72,7 @@ class AppleBasket(Env):
     2. Termination: The Basket leaves the area
     ### Additional Info
 	Models trained in various steps are saved in the 'Saved Models' folder.
-	The packages used in the environment can be installed by running the 'requirements.txt' file with the 'pip' command.
+	The packages used in the environment can be installed by running the 'requirements.txt' file with the 'pip install -r requirements.txt' command.
     """
 
 	def __init__(self):
