@@ -68,8 +68,8 @@ class AppleBasket(Env):
     The horizontal position of the basket is set in the middle of the field and an apple is created in a random position.
     ### Episode End
     The episode ends if any one of the following occurs:
-    1. Termination: Basket cannot catch the defined number of apples
-    2. Termination: Basket leaves the area
+    1. Termination: The Basket cannot catch the defined number of apples
+    2. Termination: The Basket leaves the area
     ### Additional Info
 	Models trained in various steps are saved in the 'Saved Models' folder.
 	The packages used in the environment can be installed by running the 'requirements.txt' file with the 'pip' command.
