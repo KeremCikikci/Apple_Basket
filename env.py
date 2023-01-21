@@ -43,9 +43,9 @@ class APPLE():
 class AppleBasket(Env):
 	"""
     ### Description
-	This environment simulates an apple basket that collects falling apples by moving only horizontally.
-	Field width and height, basket width and height, FPS, apples falling per second, gravity, and termination threshold variables 
-	are fully adjustable from the top of the script.
+    This environment simulates an apple basket that collects falling apples by moving only horizontally.
+    Field width and height, basket width and height, FPS, apples falling per second, gravity, and termination threshold variables 
+    are fully adjustable from the top of the script.
     ### Action Space
     The action is a `ndarray` with shape `(1,)` which can take values `{0, 1, 2}` determines movement direction of the basket
     | Num | Action                       |
